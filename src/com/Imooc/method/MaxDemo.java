@@ -3,6 +3,7 @@ package com.Imooc.method;
 public class MaxDemo {
 
 	//求最大值得方法
+	
 	public void max(float a,float b) {
 		float max;
 		if(a > b) {
